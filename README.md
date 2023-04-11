@@ -1,1 +1,4 @@
-# emson.github.io
+# Mazeables Website
+
+Code for the Mazeables website.
+
