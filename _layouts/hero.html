@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+  <style>
+      .column.is-6.text-column {
+        order: 2;
+        color: red;
+      }
+  </style>
+  <title>Responsive Hero Section</title>
+</head>
+<body>
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns is-vcentered is-multiline">
+          <!-- col 2 first for stacking -->
+          <div class="column is-6 text-column">
+            <h1 class="title">
+              Hero Title
+            </h1>
+            <h2 class="subtitle">
+              Hero Subtitle
+            </h2>
+          </div>
+          <!-- col 1 last for desktop -->
+          <div class="column is-6">
+            <figure class="image is-4by4">
+              <img class="rounded is-128x128" src="/assets/01.jpg" alt="Mazeables welcome image of maze"/>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
+

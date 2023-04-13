@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+$font-family-base: Ubuntu, Helvetica, Arial, sans-serif;
+
+$spacing-unit: 30px;
+@import "presets";
+@import "bulma";
+@import "syntax-highlighting";
+@import "line-awesome/scss/line-awesome";
+@import "overrides";
+
+// ---- Custom Overrides ---- //
+
+.rounded {
+  border-radius: 2%;
+}
+
+// for sticky footer
+// html, body { height: 100vh; }
+
+.stack-order-2{
+  order: 2;
+}
