@@ -4,7 +4,7 @@
 
 layout: home
 
-hero_title: I'm Monica. I will create design that can give you value
-hero_body: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+hero_title: Welcome to Mazeables.<br/>Beautiful puzzles for curious minds.
+hero_body: <strong>Sign up today</strong>, and get a <i>free Mazeables download</i>.<br/>You will also get our latest news and discount coupon codes from time to time.
 ---
 
