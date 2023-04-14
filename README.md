@@ -1,0 +1,2 @@
+# Mazeables Website
+Coming soon!
