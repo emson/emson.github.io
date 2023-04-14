@@ -29,8 +29,8 @@ url: "https://www.mazeables.com" # the base hostname & protocol for your site, e
 twitter_username: mazeables
 
 # Build settings
-theme: jekyll-bulma
 remote_theme: jekyll-octopod/jekyll-bulma
+theme: jekyll-bulma
 plugins:
   - jekyll-feed
 
